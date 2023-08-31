@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/app/static/css/main.073c9b0a.css",
-    "main.js": "/app/static/js/main.0b5df3dc.js",
-    "static/js/787.c1112931.chunk.js": "/app/static/js/787.c1112931.chunk.js",
-    "static/media/logo.svg": "/app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/app/index.html",
-    "main.073c9b0a.css.map": "/app/static/css/main.073c9b0a.css.map",
-    "main.0b5df3dc.js.map": "/app/static/js/main.0b5df3dc.js.map",
-    "787.c1112931.chunk.js.map": "/app/static/js/787.c1112931.chunk.js.map"
+    "main.css": "/shivanitest/static/css/main.073c9b0a.css",
+    "main.js": "/shivanitest/static/js/main.be6f5897.js",
+    "static/js/787.c1112931.chunk.js": "/shivanitest/static/js/787.c1112931.chunk.js",
+    "static/media/logo.svg": "/shivanitest/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/shivanitest/index.html",
+    "main.073c9b0a.css.map": "/shivanitest/static/css/main.073c9b0a.css.map",
+    "main.be6f5897.js.map": "/shivanitest/static/js/main.be6f5897.js.map",
+    "787.c1112931.chunk.js.map": "/shivanitest/static/js/787.c1112931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.0b5df3dc.js"
+    "static/js/main.be6f5897.js"
   ]
 }
